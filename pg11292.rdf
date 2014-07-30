@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/11292">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/11292/11292-8.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/11292"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-02-26T13:09:37</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0156c85d0e2d482a9bd8f7663fb7d05a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=windows-1251</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97506</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N6e1be651ec8f405386a9115892272ae5">
+        <rdf:value>Text</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N97105289d0754d6da227cd0614fc3d8a">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">sr</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/11292.kindle.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">143008</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-15T10:01:19.199176</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/11292"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N510ca3ea4c984de6878b97ea7e807c7d">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N98e91b1c3fbb430ab60325cb4c45f2d9">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/11292/11292-8.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N904f28129df8436e8c47669b7f76f523">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/11292"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N34bf238bb85d4caebd9ac8cbfc90ca88">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=windows-1251</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-02-26T13:10:06</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41790</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:alternative>Sekund večnosti, istočnjački roman</dcterms:alternative>
+    <dcterms:title>Секунд вечности, источњачки роман</dcterms:title>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/3925">
+        <pgterms:alias>Ilic, Dragutin J.</pgterms:alias>
+        <pgterms:name>Ilić, Dragutin J.</pgterms:name>
+        <pgterms:alias>Ilijc, Dragutin J.</pgterms:alias>
+        <pgterms:alias>Ilijć, Dragutin J.</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1858</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1926</pgterms:deathdate>
+        <pgterms:alias>Илић, Драгутин Ј.</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N035ba4cb4d9c4db2883552341a99bb3a">
+        <rdf:value>PG</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/11292/11292-0.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3a9e6497af6b4ddc9b80481118ce6ef2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48256</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-02-26T13:16:32</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/11292"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N964e4504ba184f4f9684e7b6253f11a7">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/11292/11292-0.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156153</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/11292"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N43ee17871279488da6dbe6f71d9126c2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-02-26T13:16:07</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/11292.epub.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-15T10:01:15.360008</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/11292"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69559</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2ab09ec11ddc49e887197843437e6642">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:alternative>One Second of Eternity: An Eastern Novel</dcterms:alternative>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/11292.html.gen">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-15T10:01:14.878496</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163289</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nefa24ec8e74041b2afcd8131d02dcfaf">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/11292"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-02-01</dcterms:issued>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+  </cc:Work>
+</rdf:RDF>
